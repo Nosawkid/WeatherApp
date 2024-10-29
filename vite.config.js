@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ["axios"],
   },
-  base: "/WeatherApp",
+  base: "/WeatherApp/",
 });
